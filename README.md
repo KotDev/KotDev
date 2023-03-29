@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src=https://media4.giphy.com/media/hS42TuYYnANLFR9IRQ/200w.webp?cid=ecf05e47wwc1f4q3db9ujzzb095whpililnhbxbcxnnp33d3&rid=200w.webp&ct=ts/>
+  <img src=https://media1.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif?cid=ecf05e472keu5620jyr3xillnedk9zcbbtoluxl9abwrf549&rid=giphy.gif&ct=s/>
   <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/-Telegram-black?logo=Telegram&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/-Telegram-black?logo=Telegram&logoColor=white" alt="https://t.me/MambaOreo"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/-Instagram-black?logo=Instagram&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/-Instagram-black?logo=Instagram&logoColor=white" alt="https://instagram.com/__mamba_.__?igshid=OTJhZDVkZWE="/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/-VK-black?logo=VK&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/-VK-black?logo=VK&logoColor=white" alt="https://vk.com/deadkoot"/>
   </a>
 </div>
    <img src="https://komarev.com/ghpvc/?username=OreoLand123&style=for-the-badge&color=000000" alt=""/>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </h1>
 </div>
 <div align="center">
-  <img src="https://media3.giphy.com/media/hgQ9LQX4iLfAjBZJBr/giphy.gif?cid=ecf05e47xu9q7ejwvmnmom24w32l2ypz8l1cvuvk32avn1mr&rid=giphy.gif&ct=g" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/xTiTnx37nc3vjsdeLK/giphy.gif?cid=ecf05e47y3bb7ow2yancttfpqz6eoyx5stmwjewfl7duqp57&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
 ---
