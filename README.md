@@ -44,6 +44,12 @@ Here are some ideas to get you started:
 
 
 
+Hi, my name is Danil and I'm from Krasnodar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+I am a beginner Python developer. I develop telegram bots, parsers, scripts <img src="https://media0.giphy.com/media/M3nwJpDEUxkCzVftCi/200w.webp?cid=ecf05e47dsjqosbyo9tor9smfxa3yyrg9jzptyauloabqe2r&rid=200w.webp&ct=s" width="30">
+
+
+Also learning django, sqlite, flask <img src="https://media3.giphy.com/media/SHjOSDkKZ18qOHA5B5/200.webp?cid=ecf05e478aff3ri7co999rxarfsyaiheusc4g0lr2takhvm9&rid=200.webp&ct=s" width="30">
 
 
 ---
@@ -57,3 +63,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OreoLand123&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OreoLand123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
