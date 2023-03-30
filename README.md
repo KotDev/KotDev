@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src=https://media1.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif?cid=ecf05e472keu5620jyr3xillnedk9zcbbtoluxl9abwrf549&rid=giphy.gif&ct=s/>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/MambaOreo">
     <img src="https://img.shields.io/badge/-Telegram-black?logo=Telegram&logoColor=white" alt="https://t.me/MambaOreo"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://instagram.com/__mamba_.__?igshid=OTJhZDVkZWE=">
     <img src="https://img.shields.io/badge/-Instagram-black?logo=Instagram&logoColor=white" alt="https://instagram.com/__mamba_.__?igshid=OTJhZDVkZWE="/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://vk.com/deadkoot">
     <img src="https://img.shields.io/badge/-VK-black?logo=VK&logoColor=white" alt="https://vk.com/deadkoot"/>
   </a>
 </div>
