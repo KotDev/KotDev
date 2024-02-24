@@ -35,8 +35,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+![AqCa](https://github.com/OreoLand123/OreoLand123/assets/115007758/1c4f3298-27a7-468f-9f03-00817931570d)
 
-                        ![M8Q9](https://github.com/OreoLand123/OreoLand123/assets/115007758/0cb8e2f8-243c-43e1-8847-a84a44bec9d2)
+
 
 
 ### :woman_technologist: About Me :
