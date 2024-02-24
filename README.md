@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[[codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/kotikov.lil)
 
 <div id="header" align="center">
   <img src=https://media1.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif?cid=ecf05e472keu5620jyr3xillnedk9zcbbtoluxl9abwrf549&rid=giphy.gif&ct=s/>
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media1.giphy.com/media/xTiTnx37nc3vjsdeLK/giphy.gif?cid=ecf05e47y3bb7ow2yancttfpqz6eoyx5stmwjewfl7duqp57&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
-
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/kotikov.lil)
 ---
 
 ### :woman_technologist: About Me :
