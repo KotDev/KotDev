@@ -37,12 +37,11 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media1.giphy.com/media/xTiTnx37nc3vjsdeLK/giphy.gif?cid=ecf05e47y3bb7ow2yancttfpqz6eoyx5stmwjewfl7duqp57&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/kotikov.lil)
 ---
 
+
+
 ### :woman_technologist: About Me :
-
-
 
 Hi, my name is Danil and I'm from Krasnodar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -50,6 +49,8 @@ I am a beginner Python developer. I develop telegram bots, parsers, scripts <img
 
 
 Also learning django, sqlite, flask <img src="https://media3.giphy.com/media/SHjOSDkKZ18qOHA5B5/200.webp?cid=ecf05e478aff3ri7co999rxarfsyaiheusc4g0lr2takhvm9&rid=200.webp&ct=s" width="30">
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/kotikov.lil)   
 
 
 ---
