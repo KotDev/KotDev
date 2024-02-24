@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </h1>
 </div>
 
----![AqCa](https://github.com/OreoLand123/OreoLand123/assets/115007758/d39f4f33-bca0-4d88-8e4c-5b5fdcb0739d)
+![cp](https://github.com/OreoLand123/OreoLand123/assets/115007758/055a1aae-1534-49b0-905d-55669d9ad78f)
 
 
 ### :woman_technologist: About Me :
