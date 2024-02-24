@@ -50,7 +50,7 @@ I am a beginner Python developer. I develop telegram bots, parsers, scripts <img
 
 Also learning django, sqlite, flask <img src="https://media3.giphy.com/media/SHjOSDkKZ18qOHA5B5/200.webp?cid=ecf05e478aff3ri7co999rxarfsyaiheusc4g0lr2takhvm9&rid=200.webp&ct=s" width="30">
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/kotikov.lil)   
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/kotikov.lil)   
 
 
 ---
