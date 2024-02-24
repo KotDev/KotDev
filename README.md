@@ -65,10 +65,9 @@ Also learning django, sqlite, flask <img src="https://media3.giphy.com/media/SHj
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 </div>
 
-![7VE](https://github.com/OreoLand123/OreoLand123/assets/115007758/59568168-95a8-462a-b3af-483a87bbc726)
-
 
 ---
+![7VE](https://github.com/OreoLand123/OreoLand123/assets/115007758/59568168-95a8-462a-b3af-483a87bbc726)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OreoLand123&theme=dark&background=000000)](https://git.io/streak-stats)
