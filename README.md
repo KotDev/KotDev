@@ -67,7 +67,8 @@ Also learning django, sqlite, flask <img src="https://media3.giphy.com/media/SHj
 
 
 ---
-![7VE](https://github.com/OreoLand123/OreoLand123/assets/115007758/59568168-95a8-462a-b3af-483a87bbc726)
+
+![cp](https://github.com/OreoLand123/OreoLand123/assets/115007758/e4b318b8-7c6f-4604-ad14-4b8356db17ee)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OreoLand123&theme=dark&background=000000)](https://git.io/streak-stats)
