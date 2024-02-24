@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 </h1>
 </div>
 
-![cp](https://github.com/OreoLand123/OreoLand123/assets/115007758/055a1aae-1534-49b0-905d-55669d9ad78f)
 ![M8Q9](https://github.com/OreoLand123/OreoLand123/assets/115007758/0cb8e2f8-243c-43e1-8847-a84a44bec9d2)
 
 
