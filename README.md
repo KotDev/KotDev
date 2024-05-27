@@ -63,11 +63,13 @@ Also learning django, sqlite, flask <img src="https://media3.giphy.com/media/SHj
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgresSQL" alt="PostgresSQL" with="60" heigth="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitGub" alt="GitHub" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
+
+  
 
 
   
