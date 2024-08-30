@@ -1,25 +1,9 @@
 ### Hi there 👋
 
-<!--
-**OreoLand123/OreoLand123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
 <div id="header" align="center">
   <img src=https://media1.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif?cid=ecf05e472keu5620jyr3xillnedk9zcbbtoluxl9abwrf549&rid=giphy.gif&ct=s/>
   <div id="badges">
-  <a href="https://t.me/MambaOreo">
+  <a href="https://t.me/K0tovDanil">
     <img src="https://img.shields.io/badge/-Telegram-black?logo=Telegram&logoColor=white" alt="https://t.me/MambaOreo"/>
   </a>
   <a href="https://instagram.com/__mamba_.__?igshid=OTJhZDVkZWE=">
@@ -31,8 +15,7 @@ Here are some ideas to get you started:
 </div>
    <img src="https://komarev.com/ghpvc/?username=OreoLand123&style=for-the-badge&color=000000" alt=""/>
   <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGduZDNocGRvNHF5OG93MTdtNXJqa2R5dnJnNDdmbGR4dHB3b3V5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.webp" width="30px"/>
 </h1>
 </div>
 
