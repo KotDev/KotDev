@@ -52,9 +52,11 @@ I also develop a microservice architecture using the **FastAPI** and **Django RE
 
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=00BFFF)
 ![C++](https://img.shields.io/badge/c++-%23000000?style=for-the-badge&logo=c%2B%2B&logoColor=violet)
+![C#](https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=csharp&logoColor=violet)
 
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=1DE81C)
+![VSCodium](https://img.shields.io/badge/VSCodium-090909?style=for-the-badge&logo=vscodium&logoColor=blue)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23000000?style=for-the-badge&logo=ubuntu&logoColor=orange)
 
@@ -64,6 +66,7 @@ I also develop a microservice architecture using the **FastAPI** and **Django RE
 ![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=FastAPI)
 ![Jinja](https://img.shields.io/badge/jinja-%23000000?style=for-the-badge&logo=jinja&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-090909?style=for-the-badge&logo=Celery&logoColor=00FF41)
+![.NET](https://img.shields.io/badge/.NET-090909?style=for-the-badge&logo=dotnet&logoColor=purple)
 
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker)
 ![NGINX](https://img.shields.io/badge/NGINX-090909?style=for-the-badge&logo=NGINX&logoColor=1DE81C)
